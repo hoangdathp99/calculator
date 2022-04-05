@@ -1,0 +1,9 @@
+.App {
+  background-color: bisque;
+  max-width: 1170px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
